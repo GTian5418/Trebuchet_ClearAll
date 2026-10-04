@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# Local config (not committed)
+local.properties
+keystore.properties
+
+# Keystore (not committed)
+keystore/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.opencode/
+.opencode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APK / build outputs
+*.apk
+*.ap_
+*.dex
+
+# Misc
+*.log
+captures/

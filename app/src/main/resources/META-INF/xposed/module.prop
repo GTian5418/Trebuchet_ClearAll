@@ -1,0 +1,8 @@
+name=ClearAll for Trebuchet
+version=v26.10.4
+versionCode=261004
+author=GTian5418
+description=Trebuchet (LineageOS) 最近任务底部操作栏添加"清除全部"按钮
+minApiVersion=102
+targetApiVersion=102
+staticScope=false
